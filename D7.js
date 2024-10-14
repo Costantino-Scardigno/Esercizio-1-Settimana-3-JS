@@ -109,24 +109,6 @@ let arrayLunghezze = lunghezzeStringhe(array2);
 console.log(arrayLunghezze); 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* ESERCIZIO 8 (forEach o for)
   Scrivi una funzione per creare un array contenente tutti i valori DISPARI da 1 a 99.
 */
